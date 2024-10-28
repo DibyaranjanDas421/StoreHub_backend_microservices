@@ -1,0 +1,10 @@
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\model\Order.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\dto\InventoryResponse.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\config\WebClientConfig.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\repository\OrderRepository.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\service\OrderService.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\dto\OrderRequest.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\OrderServiceApplication.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\controller\OrderController.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\dto\OrderLineItemsDto.java
+D:\Java_Full_stack\JavaPrograms\Microservices_new\microservices_new_proj\Order_service\src\main\java\com\programmingtechie\orderservice\model\OrderLineItems.java
